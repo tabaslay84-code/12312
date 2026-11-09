@@ -1,0 +1,19 @@
+{
+	"modmenu.nameTranslation.hype_makro": "rrls",
+	"modmenu.summaryTranslation.hype_makro": "Made By H5PE",
+	"modmenu.descriptionTranslation.hype_makro": "Made By H5PE",
+	"hype_makro.gui.title": "rrls",
+	"hype_makro.gui.made_by": "Made By H5PE",
+	"hype_makro.gui.enabled": "Fast placing: %s",
+	"hype_makro.gui.on": "ON",
+	"hype_makro.gui.off": "OFF",
+	"hype_makro.gui.cps": "Speed: %s CPS",
+	"hype_makro.gui.only_blocks": "Only blocks: %s",
+	"hype_makro.gui.yes": "YES",
+	"hype_makro.gui.no": "NO (every right click)",
+	"hype_makro.gui.water": "Water + block: %s",
+	"hype_makro.gui.water_delay": "Water step delay: %s tick",
+	"hype_makro.gui.hint": "Keys: - fast place, H water + block, J lever on water",
+	"hype_makro.gui.switch_only": "Water + block only at button/lever: %s",
+	"hype_makro.gui.collect": "Lever on others' water (J): %s"
+}

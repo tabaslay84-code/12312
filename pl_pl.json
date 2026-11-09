@@ -1,0 +1,19 @@
+{
+	"modmenu.nameTranslation.hype_makro": "rrls",
+	"modmenu.summaryTranslation.hype_makro": "Made By H5PE",
+	"modmenu.descriptionTranslation.hype_makro": "Made By H5PE",
+	"hype_makro.gui.title": "rrls",
+	"hype_makro.gui.made_by": "Made By H5PE",
+	"hype_makro.gui.enabled": "Szybkie stawianie: %s",
+	"hype_makro.gui.on": "WŁĄCZONE",
+	"hype_makro.gui.off": "WYŁĄCZONE",
+	"hype_makro.gui.cps": "Szybkość: %s CPS",
+	"hype_makro.gui.only_blocks": "Tylko bloki: %s",
+	"hype_makro.gui.yes": "TAK",
+	"hype_makro.gui.no": "NIE (każde użycie PPM)",
+	"hype_makro.gui.water": "Woda + blok: %s",
+	"hype_makro.gui.water_delay": "Opóźnienie kroków wody: %s tick",
+	"hype_makro.gui.hint": "Klawisze: - szybkie stawianie, H woda + blok, J dźwignia na wodę",
+	"hype_makro.gui.switch_only": "Woda + blok tylko przy guziku/dźwigni: %s",
+	"hype_makro.gui.collect": "Dźwignia na cudzą wodę (J): %s"
+}
